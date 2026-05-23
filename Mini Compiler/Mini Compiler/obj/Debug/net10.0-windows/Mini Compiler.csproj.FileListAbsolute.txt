@@ -1,0 +1,16 @@
+C:\Users\saifc\source\repos\Mini Compiler\Mini Compiler\obj\Debug\net10.0-windows\Mini Compiler.csproj.GenerateResource.cache
+C:\Users\saifc\source\repos\Mini Compiler\Mini Compiler\obj\Debug\net10.0-windows\Mini Compiler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saifc\source\repos\Mini Compiler\Mini Compiler\obj\Debug\net10.0-windows\Mini Compiler.AssemblyInfoInputs.cache
+C:\Users\saifc\source\repos\Mini Compiler\Mini Compiler\obj\Debug\net10.0-windows\Mini Compiler.AssemblyInfo.cs
+C:\Users\saifc\source\repos\Mini Compiler\Mini Compiler\obj\Debug\net10.0-windows\Mini Compiler.csproj.CoreCompileInputs.cache
+C:\Users\saifc\source\repos\Mini Compiler\Mini Compiler\bin\Debug\net10.0-windows\Mini Compiler.exe
+C:\Users\saifc\source\repos\Mini Compiler\Mini Compiler\bin\Debug\net10.0-windows\Mini Compiler.deps.json
+C:\Users\saifc\source\repos\Mini Compiler\Mini Compiler\bin\Debug\net10.0-windows\Mini Compiler.runtimeconfig.json
+C:\Users\saifc\source\repos\Mini Compiler\Mini Compiler\bin\Debug\net10.0-windows\Mini Compiler.dll
+C:\Users\saifc\source\repos\Mini Compiler\Mini Compiler\bin\Debug\net10.0-windows\Mini Compiler.pdb
+C:\Users\saifc\source\repos\Mini Compiler\Mini Compiler\obj\Debug\net10.0-windows\Mini Compiler.dll
+C:\Users\saifc\source\repos\Mini Compiler\Mini Compiler\obj\Debug\net10.0-windows\refint\Mini Compiler.dll
+C:\Users\saifc\source\repos\Mini Compiler\Mini Compiler\obj\Debug\net10.0-windows\Mini Compiler.pdb
+C:\Users\saifc\source\repos\Mini Compiler\Mini Compiler\obj\Debug\net10.0-windows\Mini Compiler.genruntimeconfig.cache
+C:\Users\saifc\source\repos\Mini Compiler\Mini Compiler\obj\Debug\net10.0-windows\ref\Mini Compiler.dll
+C:\Users\saifc\source\repos\Mini Compiler\Mini Compiler\obj\Debug\net10.0-windows\MiniCompiler.Token.resources
